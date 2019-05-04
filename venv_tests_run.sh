@@ -1,3 +1,4 @@
+#!/bin/bash
 python -m venv venv.
 echo created venv
 venv\scripts\pip install pytest
