@@ -7,4 +7,3 @@ venv/scripts/pip install teamcity-messages
 echo TC-messages installed
 venv/scripts/pip install requests
 echo requests installed
-venv/scripts/pytest -v
