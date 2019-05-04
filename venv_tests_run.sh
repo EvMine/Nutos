@@ -8,5 +8,3 @@ echo TC-messages installed
 venv/scripts/pip install requests
 echo requests installed
 venv/scripts/pytest -v
-rm -rf venv
-echo venv deleted
